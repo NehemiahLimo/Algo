@@ -1,0 +1,27 @@
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.Trees.resources
+C:\Users\SOL\Documents\Visual Studio 2012\Projects\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.exe
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.Trees.resources
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.exe
+D:\lee\algorithmdatastructures_1\AlgorithmDataStructures\AlgorithmDataStructures\Source\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\obj\Debug\BinaryTree.Trees.resources
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Liloh Bossy\Documents\Visual Studio 2012\Projects\Algo\Algo\Source\BinaryTree\obj\Debug\BinaryTree.pdb
